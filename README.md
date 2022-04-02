@@ -1,9 +1,9 @@
 make
-./push_swap <list to sort>
+./push_swap [list to sort]
 
 make bonus
-./checker <list to sort>
-<instructions>
+./checker [list to sort] <br>
+instructions <br>
 CTRL + D
 
 • You have 2 stacks named a and b.
